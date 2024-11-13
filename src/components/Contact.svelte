@@ -89,12 +89,11 @@
     <div class="content-container">
         <div class="contact-left">
             <h1 class="contact-heading">Get in Touch</h1>
-            <i class="fa-solid fa-paper-plane"></i><a href="#" target="_blank" class="gmail_anchor"> pyschie313@gmail.com</a>
+            <i class="fa-solid fa-paper-plane"></i><a target="_blank" class="gmail_anchor"> pyschie313@gmail.com</a>
             <p><i class="fa-solid fa-phone"></i>  0994 559 1883</p>
             <div class="social-icons">
-                <a href="https://www.facebook.com/jymce.bertillo/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
-                <a href="https://x.com/JBCB32446518" target="_blank"><i class="fa-brands fa-square-x-twitter"></i></a>
-                <a href="https://www.instagram.com/jymceeee/?hl=en" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://www.facebook.com/tyshameyyy?mibextid=ZbWKwL" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+                <a href="https://www.instagram.com/_wishiamey/profilecard/?igsh=MTkwZHNtY2pqa3dkbw==" target="_blank"><i class="fa-brands fa-instagram"></i></a>
             </div>
         </div>
         <div class="contact-right">
@@ -180,7 +179,7 @@
     }
 
     .social-icons a:hover {
-        color: #B22222;
+        color: #2A3663;
         transform: scale(1.1);
     }
 
