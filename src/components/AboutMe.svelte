@@ -91,6 +91,7 @@
   align-items: center;
   max-width: 1000px; /* Adjust max-width as needed */
   margin: 0 auto; /* Center content container */
+  padding: 20px;
 }
 
 .heading-container {
