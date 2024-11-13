@@ -43,6 +43,7 @@
   .skills-container {
     max-width: 900px; /* Adjust as needed */
     margin: 0 auto; /* Center the container */
+    font-family: 'Calibri';
   }
   .skills-container h3{
       font-size: 4rem;

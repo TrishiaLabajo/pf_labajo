@@ -126,6 +126,7 @@
         background-color: #c3b091;
         color: #ECDFCC;
         text-align: center;
+        font-family: 'Calibri';
     }
 
     .content-container {

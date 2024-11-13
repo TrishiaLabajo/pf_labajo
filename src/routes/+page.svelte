@@ -5,6 +5,7 @@
     import Skills from "../components/Skills.svelte";
     import Contact from "../components/Contact.svelte";
     import Footer from "../components/Footer.svelte";
+    import Projects from "../components/Projects.svelte";
 </script>
 
 <main>
@@ -12,6 +13,7 @@
     <Home/>
     <AboutMe/>
     <Skills/>
+    <Projects/>
     <Contact/>
     <Footer/>
 

@@ -7,7 +7,7 @@
       <h2 class="title">BSCS STUDENT</h2>
       <p class="greeting">Hi, I'm <span class="accent">Trishia</span></p>
     </div>
-    <img src="pictures\home.jpg" alt="Jymce Bertillo Photo" title="Jymce Bertillo Photo" class="profile-picture" />
+    <img src="pictures\home.jpg" alt="Trishia Photo" title="Trishia Photo" class="profile-picture" />
   </div>
 
 

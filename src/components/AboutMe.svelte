@@ -71,7 +71,7 @@
         </div>
       </div>
       <div class="image-container">
-        <img src="pictures\about.jpg" alt="Jymce Bertillo Photo" title="Jymce Bertillo Photo" />
+        <img src="pictures\about.jpg" alt="Trishia Photo" title="Trishia Photo" />
       </div>
     </div>
   </div>
@@ -83,6 +83,7 @@
   background-color: #c3b091;
   color: black;
   text-align: center;
+  font-family: 'Calibri';
 }
 
 .content-container {
@@ -122,10 +123,6 @@ img {
 .info-container {
   flex: 1; /* Take up remaining space */
   color: black;
-}
-
-.info {
-  text-align: justify; /* Justify the text */
 }
 
 .options {
@@ -172,29 +169,6 @@ img {
   margin-bottom: 5px;
 }
 
-.skills, .education {
-  list-style: none;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap; /* Allow skills to wrap if needed */
-  gap: 10px;
-  justify-content: flex-start; /* Align content to the left */
-}
-
-.skills li, .education li {
-  background-color: #3C3D37;
-  padding: 8px 15px;
-  border-radius: 5px;
-  color: #ECDFCC;
-}
-
-.education-item {
-  margin-bottom: 15px;
-}
-
-.education-item p {
-  margin-bottom: 5px;
-}
 
 /* Responsive Styling */
 @media (max-width: 650px) {
@@ -223,15 +197,6 @@ img {
   }
 
   .section-container {
-    width: 100%;
-  }
-
-  .skills, .education {
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-
-  .skills li, .education li {
     width: 100%;
   }
 
